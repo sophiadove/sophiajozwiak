@@ -28,7 +28,6 @@ twitter_username: sophiadovemusic
 github_username:  sophiadove
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
 
