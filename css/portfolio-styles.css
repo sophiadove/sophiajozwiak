@@ -251,6 +251,9 @@
     position:relative;
     top:-75px;
   }
+  .transparent {
+    background-color:transparent;
+  }
 
   @media screen and (min-width: 736px) and (max-width: 1095px) {
     .writing-samples {
